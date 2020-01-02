@@ -1,0 +1,13 @@
+.berger {
+
+
+
+}
+
+#container {
+    background-image: url("../img/background.png");
+    background-repeat: no-repeat;
+    width: 40%;
+    opacity:.8;
+    border: 12px solid #454545;
+}
